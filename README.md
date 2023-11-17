@@ -5,4 +5,4 @@ I don't want to pay for password managers, so I made this.
  - Use better encryption system
 
 ### v1
- - Uses cipher system (to be changed)
+ - Uses cipher system (very insecure)
